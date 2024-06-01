@@ -14,15 +14,15 @@ Players compete by drafting a hand consisting of five dice in an attempt to coll
 
 1. The players choose one player or non-player to keep score.
 2. The players decide the order in which they take turns.
-3. The scorekeeper writes the player names or initials on the first row of the scorecard, giving every player their own column.
+3. The scorekeeper writes the player names or initials on the first row of the scorecard, giving each player their own column.
 4. On the player's turn, they roll five dice. The player has the opportunity to re-roll any number of dice two more times to improve their hand of choice. They may also choose to only re-roll once, or not at all. The player then informs the table on their category of choice.
-5. The scorekeeper then announces to the table of the player's score for that category.
+5. The scorekeeper then announces the player's score for that category.
 6. The scorekeeper records the player's score on the scorecard in the correct box for that player's column and category.
 7. The turn is passed to the next player.
 8. Once the last player's turn has ended, it is now the first player's turn again.
 9. The players continue to take turns until all players have completed every category.
-10. Once every category for every player has been completed, the scorekeeper will total the points for each player, excluding the Aces - Sixes categories and including the Subtotal category.
-11. The scorekeeper will write the total in the last box on each player's column.
+10. Once every category for every player has been completed, the scorekeeper totals the points for each player, excluding the Aces - Sixes categories and including the Subtotal category.
+11. The scorekeeper then writes the total for each player in the last box on their column.
 12. The player with the most points wins.
 
 # Rules
@@ -36,7 +36,7 @@ Players compete by drafting a hand consisting of five dice in an attempt to coll
 # Scoring
 
 - Aces - Sixes: The sum of each die matching the category.
-e.g. One dot on one die = one point, This score is linked to the Aces category. Two dots on one die = two points, This score is linked to the Deuces category. Other dice not matching the category are discarded, or have no value.
+e.g. One dot on one die = one point; this score is linked to the Aces category. Two dots on one die = two points; this score is linked to the Deuces category. Other dice not matching the category are discarded, or have no value.
 
 	- Once the player has completed all Aces - Sixes categories, the total for these categories is recorded in the Subtotal category. If the player's subtotal is equal to or greater than 63, the scorekeeper awards the player 35 points before the next player's turn. This is recorded in the '+ 35 Bonus' category. If the player's subtotal does not exceed 63 points, the scorekeeper will write a zero for this category.
 
