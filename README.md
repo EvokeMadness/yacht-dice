@@ -1,4 +1,4 @@
-# Yacht Dice Keeper
+# Yacht Dice
 ### Yacht game rules and 3D printable accessory.
 
 ![](blender/render.png)
