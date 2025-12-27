@@ -12,7 +12,8 @@
 # Summary
 
 - **Change History**
-    - **12/07/2025:** Improved model aesthetics!
+	- **12/27/2025:** Added open-bottom variant
+    - **12/07/2025:** Improved model aesthetics
 
 - **What's Included:**
 	- One dice keeper
