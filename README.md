@@ -3,24 +3,22 @@
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/572493-yacht-dice)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:6441417)
 
-## Summary
-
-3D print a dice keeper for your Yacht games!
-
 * * *
 
 # Summary
 
-- **Change History**
-	- **03/19/2026:** Updated bottom pattern
-	- **12/27/2025:** Added open-bottom variant
-    - **12/07/2025:** Improved model aesthetics
+### 3D print a dice keeper for your Yacht games!
 
 - **What's Included:**
 	- One dice keeper
 	- Printable rules
 	- Printable scorecards
 	- Printable pattern used for the felt square on the inside of the dice keeper
+
+- **Change History:**
+	- **03/19/2026:** Updated bottom pattern
+	- **12/27/2025:** Added open-bottom variant
+    - **12/07/2025:** Improved model aesthetics
 
 # Print Settings
 
